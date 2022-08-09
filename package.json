@@ -1,0 +1,24 @@
+{
+  "name": "api-reset-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolineBarbosaM/API-Reset-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolineBarbosaM/API-Reset-Express/issues"
+  },
+  "homepage": "https://github.com/CarolineBarbosaM/API-Reset-Express#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
