@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +20,17 @@
   },
   "homepage": "https://github.com/CarolineBarbosaM/API-Reset-Express#readme",
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "@typescript-eslint/eslint-plugin": "^5.33.0",
+    "@typescript-eslint/parser": "^5.33.0",
+    "eslint": "^8.21.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
   }
 }
