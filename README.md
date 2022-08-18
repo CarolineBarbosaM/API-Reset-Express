@@ -6,7 +6,7 @@ API Rest feita em javascript usando o software de código aberto NodeJs e o fram
 ### 1 - Clone o reposotório
 
 ```bash
-git clone git clone https://github.com/CarolineBarbosaM/API-Reset-Express.git
+git clone git clone https://github.com/CarolineBarbosaM/API-Rest-Express.git
 
 ```
 
